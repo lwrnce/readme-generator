@@ -1,0 +1,19 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwrnce/readme-generator.git"
+  },
+  "author": "Lawrence Yuen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwrnce/readme-generator/issues"
+  },
+  "homepage": "https://github.com/lwrnce/readme-generator#readme"
+}
