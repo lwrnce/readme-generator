@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lwrnce/readme-generator/issues"
   },
-  "homepage": "https://github.com/lwrnce/readme-generator#readme"
+  "homepage": "https://github.com/lwrnce/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
