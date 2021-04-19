@@ -1,8 +1,8 @@
 
-# Example
+# Readme Generator
 
 ## Description
-Brief description
+This is a readme generator that uses the inquirer package.
     
 ## Table of Contents:
 * [Installation](#installation)
@@ -14,13 +14,13 @@ Brief description
 * [Questions](#questions)
 
 ## Installation
-npm install
+npm install inquirer
 
 ## Usage
-node index.js
+Run the command "node index.js" in a terminal
 
 ## Credits
-inquire
+Inquirer.js
 
 ## License
 This project is licensed under:
@@ -30,7 +30,7 @@ MIT License
 None
 
 ## Tests
-test
+Run the command "node index.js" in a terminal and answer the prompts.
 
 ## Questions
 If you have any questions, please contact me on [GitHub](https://github.com/lwrnce) or email me at lwrnceyuen@gmail.com.
