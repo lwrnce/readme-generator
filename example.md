@@ -2,7 +2,7 @@
 # Example
 
 ## Description
-This is an example
+Brief description
     
 ## Table of Contents:
 * [Installation](#installation)
@@ -13,14 +13,14 @@ This is an example
 * [Tests](#tests)
 * [Questions](#questions)
 
-# Installation
-npm install name
+## Installation
+npm install
 
 ## Usage
 node index.js
 
 ## Credits
-No
+inquire
 
 ## License
 This project is licensed under:
@@ -30,7 +30,7 @@ MIT License
 None
 
 ## Tests
-Test
+test
 
 ## Questions
 If you have any questions, please contact me on [GitHub](https://github.com/lwrnce) or email me at lwrnceyuen@gmail.com.

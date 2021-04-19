@@ -130,7 +130,7 @@ ${description}
 * [Tests](#tests)
 * [Questions](#questions)
 
-# Installation
+## Installation
 ${installation}
 
 ## Usage
