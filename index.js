@@ -1,6 +1,5 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const util = require('util');
 
 function promptUser() {
   return inquirer.prompt([
@@ -137,20 +136,20 @@ ${installation}
 ## Usage
 ${usage}
 
-### Credits
+## Credits
 ${credits}
 
-#### License
+## License
 This project is licensed under:
 ${license}
 
-##### Contributing
+## Contributing
 ${contribution}
 
-###### Tests
+## Tests
 ${tests}
 
-###### Questions
+## Questions
 If you have any questions, please contact me on [GitHub](https://github.com/${gitUser}) or email me at ${email}.
 
 ![picture](https://github.com/${gitUser}.png?size=50)`;
